@@ -19,7 +19,7 @@ Now clone the repository.
 ```bash
 $ sudo -i
 # mkdir /root
-# git clone https://github.com/karlding/module-signing.git
+# git clone https://github.com/karlding/t440s-module-signing.git module-signing
 # cd /root/module-signing
 ```
 
